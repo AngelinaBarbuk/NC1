@@ -1,0 +1,5 @@
+Lollipop big_lollipop 10 5 pink
+Chocolate big_chocolate 3 7
+Lollipop small_lollipop 3 4 green
+Nut big_nut 9 15 hazel_nut
+Chocolate small_chocolate 1 2
